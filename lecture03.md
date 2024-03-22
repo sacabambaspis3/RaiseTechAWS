@@ -26,7 +26,7 @@
 
 * DBサーバーの名前: **MySQL**
 
-![DBサーバー名](imagis/mysqldstatus.png)
+![DBサーバー名](images/mysqldstatus.png)
 
 * DBサーバーのVersion: **8.0.36**
 
