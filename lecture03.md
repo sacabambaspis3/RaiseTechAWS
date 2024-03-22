@@ -8,15 +8,15 @@
 * APサーバーの名前：**Puma**
 * Puma version: **5.6.8**
 
-![サーバー確認]（images/puma.png）
+![サーバー確認]（../images/puma.png）
 
 * Puma起動時
 
-![起動時] (images/fruits.png)
+![起動時] (../images/fruits.png)
 
 * APサーバー終了時→ **アクセス不可**
 
-![終了時] (images/pumastop.png)
+![終了時] (..images/pumastop.png)
 -　再起動させるとアクセス可能になりました
 
 ---
@@ -25,16 +25,16 @@
 
 * DBサーバーの名前: **MySQL**
 
-![DBサーバー名] (imagis/mysqldstatus.png)
+![DBサーバー名] (../imagis/mysqldstatus.png)
 
 * DBサーバーのVersion: **8.0.36**
 
-![DBバージョン] (images/sqlversion.png)
+![DBバージョン] (../images/sqlversion.png)
 
 * DBサーバー終了後→ **アクセス不可**
 
-![DB終了時] (images/mysqldstop.png)
+![DB終了時] (../images/mysqldstop.png)
 
 * Railsの構成管理ツール→ **Bundler**
 
-![構成管理] (images/bundler.png)
+![構成管理] (../images/bundler.png)
