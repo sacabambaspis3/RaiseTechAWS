@@ -10,7 +10,7 @@
 
 * Puma起動時
 
-![Puma起動時](/images/fruits.png)
+![Puma起動時](images/fruits.png)
 
 * APサーバー終了時→ **アクセス不可**
 
