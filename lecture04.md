@@ -27,9 +27,29 @@
 
 ![EC2インスタンス](images/ec2instance.png)
 
+## EC2のセキュリティグループ
+
+* インバウンド
+
+![EC2インバウンド](images/ec2inbound.png)
+
+* アウトバウンド
+
+![EC2アウトバウンド](images/ec2outbound.png)
+
 ## RDSの作成
 
 ![RDSの作成](images/rds_db.png)
+
+## RDSのセキュリティグループ
+
+* インバウンド
+
+![RDSインバウンド](images/rdsinbound.png)
+
+* アウトバウンド
+
+![RDSアウトバウンド](images/rdsoutbound.png)
 
 ## Teratermを用いたEC2へのSSH接続及びECからRDSへ接続
 
