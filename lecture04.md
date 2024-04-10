@@ -31,7 +31,7 @@
 
 * インバウンド
 
-![EC2インバウンド](images/ec2inbound.png)
+![EC2インバウンド](images/ec2inbound_modify.png)　(修正済み)
 
 * アウトバウンド
 
