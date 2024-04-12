@@ -29,21 +29,21 @@
 
 ## EC2のセキュリティグループ
 
-* インバウンド
+* インバウンド (修正済み)
 
-![EC2インバウンド](images/ec2inbound_modify.png)　(修正済み)
+![EC2インバウンド](images/ec2inbound_modify.png)　
 
 * アウトバウンド
 
 ![EC2アウトバウンド](images/ec2outbound.png)
 
-## RDSの作成
+## RDSの作成　(要修正)
 
 ![RDSの作成](images/rds_db.png)
 
 ## RDSのセキュリティグループ
 
-* インバウンド
+* インバウンド (要修正)
 
 ![RDSインバウンド](images/rdsinbound.png)
 
